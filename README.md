@@ -12,11 +12,15 @@ Proficient at communicating with other researchers, portfolio management and tra
 
 Seeking a career in financial services industry with a firm that values talent, loyalty, a dedicated work ethic, and a genuine passion for the financial services industry.
 
-## Projects :art:
+## Projects :page_with_curl:
 
 **Nvidia Stock Prediction** [GitHub](https://github.com/jayce7376/Nvidia_Stock_Prediction)
 
 :chart_with_upwards_trend: Time series forecasting models predicted Nvidia future stock closing price by using ARIMA, LSTM, and Prophet.
+
+**COVID19 Detection** [GitHub](https://github.com/jayce7376/Covid_Detection)
+
+:octocat: Deep learning models, DenseNet and CNN were built to detect people who infected to COVID-19 virus by using their lung X-ray.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
