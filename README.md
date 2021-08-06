@@ -1,9 +1,21 @@
-### Hi! I'm Kibae 👋
+# Hi! I'm Kibae 👋
 
-<!--
-**jayce7376/jayce7376** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring Financial Engineer pursing a Master of Science in Mathematical Finance & Financial Technology from Boston University.
 
-Here are some ideas to get you started:
+Adept at working independently or collaboratively on a team. Possessing a strong sense of fundamental financial drivers of investment valuation. Armed with in depth understanding of financial mathematics including stochastic calculus and probability theory.
+
+A critical thinker with intellectually curiosity. Detailed-oriented, well-organized, and possessing superior communication and time management skills used to excel in driving project life cycles and ensuring optimal data quality and integrity.
+
+Possessing core strengths in performing analysis from the top-down investment perspective. Capable of rigorously formulating and testing fundamental hypotheses against empirical data. Skilled at reviewing, evaluating and modifying current academic and industry research for use in our investment models.
+
+Proficient at communicating with other researchers, portfolio management and trading desk to enhance research and portfolio management process. Experienced at supporting senior individuals with client and marketing requests which require deep dive research.
+
+Seeking a career in financial services industry with a firm that values talent, loyalty, a dedicated work ethic, and a genuine passion for the financial services industry.
+
+## Projects :art:
+
+**Nvidia Stock Prediction [GitHub](https://github.com/jayce7376/Nvidia_Stock_Prediction)
+:chart_with_upwards_trend: Time series forecasting models predicted Nvidia future stock closing price by using ARIMA, LSTM, and Prophet.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
