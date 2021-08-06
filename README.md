@@ -25,6 +25,6 @@ Seeking a career in financial services industry with a firm that values talent, 
 ## Get in Touch :speech_balloon:
 
 <p>
-  <a href="https://www.linkedin.com/in/jayce-kibae-kim-564b3b16a/" target="blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="30" /></a>
-  <a href="https://rlqo7376.medium.com/" target="blank"><img align="left" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"  height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/jayce-kibae-kim-564b3b16a/" target="blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="120" /></a>
+  <a href="https://rlqo7376.medium.com/" target="blank"><img align="left" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"  height="30" width="120" /></a>
  </p>
