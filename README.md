@@ -15,6 +15,7 @@ Seeking a career in financial services industry with a firm that values talent, 
 ## Projects :art:
 
 **Nvidia Stock Prediction [GitHub](https://github.com/jayce7376/Nvidia_Stock_Prediction)
+
 :chart_with_upwards_trend: Time series forecasting models predicted Nvidia future stock closing price by using ARIMA, LSTM, and Prophet.
 
 - 🔭 I’m currently working on ...
