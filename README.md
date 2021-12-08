@@ -1,6 +1,6 @@
 # Hi! I'm Kibae 👋
 
-An aspiring Financial Engineer pursing a Master of Science in Mathematical Finance & Financial Technology from Boston University.
+An aspiring Quantitative Analyst pursing a Master of Science in Mathematical Finance & Financial Technology from Boston University.
 
 Adept at working independently or collaboratively on a team. Possessing a strong sense of fundamental financial drivers of investment valuation. Armed with in depth understanding of financial mathematics including stochastic calculus and probability theory.
 
